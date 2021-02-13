@@ -39,6 +39,12 @@ const Home: React.FC = () => {
         <List spacing={3}>
           <ListItem>
             <ListIcon icon="check-circle" color="green.500" />
+            <Link href="https://www.typescriptlang.org/" isExternal>
+              Typescript
+            </Link>
+          </ListItem>
+          <ListItem>
+            <ListIcon icon="check-circle" color="green.500" />
             <Link href="https://chakra-ui.com/" isExternal>
               Chakra-ui
             </Link>
@@ -65,6 +71,12 @@ const Home: React.FC = () => {
             <ListIcon icon="check-circle" color="green.500" />
             <Link href="https://prettier.io/" isExternal>
               Prettier
+            </Link>
+          </ListItem>
+          <ListItem>
+            <ListIcon icon="check-circle" color="green.500" />
+            <Link href="https://swr.vercel.app/" isExternal>
+              SWR
             </Link>
           </ListItem>
         </List>

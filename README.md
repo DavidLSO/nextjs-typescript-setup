@@ -8,11 +8,13 @@ Use the package manager [yarn](https://yarnpkg.com/) or [npm](https://www.npmjs.
 
 ## Build With
 
-1. [Chakra-ui](https://chakra-ui.com/)
-2. [emotion](https://emotion.sh/docs/styled)
-3. [next-images](https://github.com/twopluszero/next-images)
-4. [Eslint](https://eslint.org/)
-5. [Prettier](https://prettier.io/)
+1. [Typescript](https://www.typescriptlang.org/)
+2. [Chakra-ui](https://chakra-ui.com/)
+3. [emotion](https://emotion.sh/docs/styled)
+4. [next-images](https://github.com/twopluszero/next-images)
+5. [Eslint](https://eslint.org/)
+6. [Prettier](https://prettier.io/)
+7. [SWR](https://swr.vercel.app/)
 
 ## Usage
 
